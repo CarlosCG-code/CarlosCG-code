@@ -8,8 +8,6 @@ Actualmente estoy aprendiendo y mejorando mis conocimientos en diferentes tecnol
 
 Mi objetivo es seguir aprendiendo, experimentar con nuevos lenguajes y herramientas, y construir proyectos cada vez más completos.
 
----
-
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
@@ -18,8 +16,6 @@ Mi objetivo es seguir aprendiendo, experimentar con nuevos lenguajes y herramien
 - 🛠️ Me interesa especialmente el desarrollo web y de aplicaciones
 - 🚀 Siempre buscando nuevos proyectos en los que aprender
 - 📚 Mi objetivo es seguir creciendo como desarrollador
-
----
 
 ## 🛠️ Tecnologías
 
@@ -55,8 +51,6 @@ Actualmente estoy trabajando en diferentes proyectos para poner en práctica lo 
 
 Puedes echar un vistazo a mis repositorios para ver mi progreso y los proyectos en los que estoy trabajando.
 
----
-
 ## 📈 Mi objetivo
 
 > **Aprender haciendo.**
@@ -65,14 +59,12 @@ Quiero seguir desarrollando proyectos, enfrentarme a nuevos retos y aprender dif
 
 Cada proyecto es una oportunidad para aprender algo nuevo. 🚀
 
----
-
 ## 📫 Contacto
 
 Si quieres conocer mis proyectos o contactar conmigo:
 
-- 💻 **GitHub:** [@TU_USUARIO](https://github.com/TU_USUARIO)
-- 📧 **Email:** TU_EMAIL
+- 💻 **GitHub:** [@TU_USUARIO](https://github.com/CarlosCG-code)
+- 📧 **Email:** info.control.cc@gmail.com
 
 ---
 

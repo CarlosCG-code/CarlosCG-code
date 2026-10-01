@@ -13,7 +13,6 @@ Mi objetivo es seguir aprendiendo, experimentar con nuevos lenguajes y herramien
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
 - 🌱 Actualmente aprendiendo y mejorando mis habilidades de programación
 - 💡 Me gusta descubrir nuevas tecnologías y probar cosas diferentes
-- 🛠️ Me interesa especialmente el desarrollo web y de aplicaciones
 - 🚀 Siempre buscando nuevos proyectos en los que aprender
 - 📚 Mi objetivo es seguir creciendo como desarrollador
 

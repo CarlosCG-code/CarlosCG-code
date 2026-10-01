@@ -63,7 +63,7 @@ Cada proyecto es una oportunidad para aprender algo nuevo. 🚀
 
 Si quieres conocer mis proyectos o contactar conmigo:
 
-- 💻 **GitHub:** [@TU_USUARIO](https://github.com/CarlosCG-code)
+- 💻 **GitHub:** [@CarlosCG-code](https://github.com/CarlosCG-code)
 - 📧 **Email:** info.control.cc@gmail.com
 
 ---
